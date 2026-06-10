@@ -1,6 +1,6 @@
 # siri-py
 *Note: It DOES NOT work with APIs or weather or the web - also I'm not affiliated with Apple or any of their services, this is for educational purposes only.*
-(C) 2025, 2026 developmentdad (github.com/developmentdad)
+(c)2025, 2026 developmentdad (github.com/developmentdad)
 
 # Introducing Siri.py
 *For once you can interact with Siri through your terminal.*
